@@ -1,4 +1,4 @@
-# 1 Mean and variance of a discrete  distribution
+EX: 1 Mean and variance of a discrete  distribution
 
 
 # Aim : 
